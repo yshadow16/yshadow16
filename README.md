@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá👋</h1>
 
 ###
 
-<p align="left">Meu nome é Davi Goulart... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Davi Goulart...</p>
 
 ###
 
