@@ -27,4 +27,4 @@
 
 ##
 
-<a href="https://www.linkedin.com/in/davi-goulart-bastos-a3b690266/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget="blank" rel="external"></a>
+<a href="https://www.linkedin.com/in/davi-goulart-bastos-a3b690266/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget="blank"></a>
