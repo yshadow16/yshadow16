@@ -10,7 +10,7 @@
 
 ##
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando bugs desde 2025...<br>📚 Estou aprendendo HTML5 e CSS3...<br>🎯 Minhas metas: aprender muito sobre programação...</p>
 
 ##
 
@@ -24,6 +24,10 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 logo">
   <img width="12">
 </div>
+
+##
+
+<h2 align="left">Minhas Redes:</h2>
 
 ##
 
