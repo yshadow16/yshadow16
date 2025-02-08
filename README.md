@@ -23,7 +23,7 @@
    src="https://img.icons8.com/?size=100&id=owWiEaAJmGKK&format=png&color=000000" height="40" alt="HTML5 logo">
   <img width="12">
  <img
-   src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="CSS3 logo">
+   src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" height="40" alt="CSS3 logo">
   <img width="12">
 </div>
 
