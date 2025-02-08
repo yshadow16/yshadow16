@@ -19,9 +19,7 @@
 ###
 
 <div align="left">
- <img
-   src="https://img.icons8.com/?size=100&id=owWiEaAJmGKK&format=png&color=000000" height="40" alt="HTML5 logo">
-  <img width="12">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo">
  <img
    src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" height="40" alt="CSS3 logo">
   <img width="12">
