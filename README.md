@@ -1,4 +1,8 @@
-<h1 align="left">Olá👋</h1>
+<h1 align="left">👽Bem-vindo ao meu Github👽</h1>
+
+##
+
+<h2 align="left">Um pouco sobre mim</h2>
 
 ##
 
@@ -6,11 +10,7 @@
 
 ##
 
-<h2 align="left">Sobre mim</h2>
-
-##
-
-<p align="left">✨ Criando bugs desde 2025...<br>📚 Estou aprendendo HTML5 e CSS3...<br>🎯 Minhas metas: aprender muito sobre programação...</p>
+<p align="left">🎓 Atualmente estou cursando Analise e Desenvolvimento de Sistemas...<br>📚 Estou aprendendo HTML5 e CSS3...<br>🎯 Minhas metas: aprender muito sobre programação...</p>
 
 ##
 
