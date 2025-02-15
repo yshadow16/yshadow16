@@ -14,7 +14,7 @@
 
 ##
 
-<p>🌎Sou do Rio Grande, Brasil.</p>
+<p>🌎Sou de Rio Grande, RS, Brasil.</p>
 
 ##
 
