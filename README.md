@@ -18,7 +18,7 @@
 
 ##
 
-<p align="left">🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas...<br>📚 Estou aprendendo HTML5 e CSS3...<br>🎯 Minhas metas: aprender muito sobre programação...</p>
+<p align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas...<br>📚 Estou aprendendo HTML5 e CSS3...<br>🎯 Minhas metas: aprender muito sobre programação...</p>
 
 ##
 
