@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/davi-goulart-bastos-a3b690266/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget="blank"></a>
+<p align="center"><a href="www.linkedin.com/in/davi-goulart-bastos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget="blank"></a>
 <a href="mailto:davigoulart.bastos@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
 </p>
 
